@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: api
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/communicates}
+    username: ${DB_USERNAME:communicates}
+    password: ${DB_PASSWORD:communicates}
+  jpa:
+    hibernate:
+      ddl-auto: validate

@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: ${LOCAL_USERNAME:local-user}
+      password: ${LOCAL_PASSWORD:local-password}
