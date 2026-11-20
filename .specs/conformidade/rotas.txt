@@ -1,0 +1,4 @@
+Rotas do módulo Conformidade
+============================
+
+Nenhuma rota inicial foi definida nos contratos da arquitetura. A avaliação de política de mercado será especificada antes da sua implementação.

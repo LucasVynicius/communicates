@@ -1,0 +1,4 @@
+Rotas do módulo Segurança
+=========================
+
+POST /api/v1/reports — abre denúncia com contexto mínimo autorizado (planejada).

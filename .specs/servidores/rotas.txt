@@ -1,0 +1,4 @@
+Rotas do módulo Servidores
+==========================
+
+POST /api/v1/workspaces — cria workspace e estrutura inicial (implementada).

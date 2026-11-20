@@ -1,0 +1,6 @@
+Rotas do módulo Media
+=====================
+
+POST /api/v1/rooms/{id}/join — emite token limitado para entrar numa sala (planejada).
+POST /api/v1/rooms/{id}/sounds/{clipId}/play — autoriza reprodução de som (planejada).
+POST /api/v1/webhooks/livekit — recebe eventos assinados do LiveKit (planejada).

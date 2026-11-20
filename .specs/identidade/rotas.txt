@@ -1,0 +1,4 @@
+Rotas do módulo Identidade
+==========================
+
+Nenhuma rota inicial foi definida nos contratos da arquitetura. O login usa um provedor OIDC externo; contratos próprios para sessão, MFA e recuperação ainda precisam de especificação.

@@ -1,0 +1,6 @@
+Rotas do módulo Chat
+====================
+
+POST /api/v1/channels/{channelId}/messages — publica mensagem (implementada nesta branch).
+GET  /api/v1/channels/{channelId}/messages — consulta histórico paginado (implementada nesta branch).
+POST /api/v1/attachments/uploads — solicita upload de anexo (planejada; spec própria).

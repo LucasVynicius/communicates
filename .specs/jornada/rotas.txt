@@ -1,0 +1,4 @@
+Rotas do módulo Jornada
+=======================
+
+POST /api/v1/shifts/events — regista evento de jornada com chave idempotente (planejada).
